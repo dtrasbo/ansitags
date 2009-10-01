@@ -5,7 +5,6 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "ansitags"
-    gem.summary = %Q{TODO: one-line summary of your gem}
     gem.description = %Q{Converts ANSI color codes to HTML tags}
     gem.email = "thisisdato@gmail.com"
     gem.homepage = "http://github.com/thisisdato/ansitags"
