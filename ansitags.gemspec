@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "ansitags.gemspec",
      "lib/ansitags.rb",
      "spec/ansitags_spec.rb",
      "spec/spec_helper.rb"
