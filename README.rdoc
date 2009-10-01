@@ -4,7 +4,7 @@ Converts ANSI codes to HTML tags.
 
 == Installation
 
-  sudo gem install thisisdato-ansitags --source http://gems.github.com/
+  sudo gem install ansitags --source http://gemcutter.org/
 
 == Usage
 
