@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{Converts ANSI codes to HTML tags}
     gem.description = %Q{Converts ANSI codes to HTML tags}
     gem.email = "thisisdato@gmail.com"
-    gem.homepage = "http://github.com/thisisdato/ansitags"
+    gem.homepage = "http://github.com/dtrasbo/ansitags"
     gem.authors = ["David Trasbo"]
     gem.add_development_dependency "rspec"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
