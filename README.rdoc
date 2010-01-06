@@ -30,4 +30,4 @@ Positive". But you won't need any of them, so that's fine.
 
 == Copyright
 
-Copyright (c) 2009 David Trasbo. See LICENSE for details.
+Copyright (c) 2010 David Trasbo. See LICENSE for details.
